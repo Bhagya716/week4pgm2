@@ -66,7 +66,7 @@ public class Figures {
 		Scanner scan = new Scanner(System.in);
 
 		System.out.println("Programming Fundamentals");
-		System.out.println("NAME: Reddy Anand Kumar Reddy");
+		System.out.println("NAME: Bhagya Lakshmi");
 		System.out.println("PROGRAMMING ASSIGNMENT 2");
 		System.out.println();
 		System.out.print("Enter the size of the figure: "); // type an odd number
